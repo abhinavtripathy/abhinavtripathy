@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-I am junior at [UMass Amherst](https://www.umass.edu/) where I am pursuing my interests of technology.  
+<!-- 
+I am junior at [UMass Amherst](https://www.umass.edu/) where I am pursuing my interest of technolgy.  
+-->
