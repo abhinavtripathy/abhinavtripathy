@@ -8,10 +8,7 @@
 
 - 😄 Pronouns: **He/Him/His**
 
-<details>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="arihantbansal's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavtripathy&theme=prussian" /></a>
-</details>
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abhinavtripathy&theme=prussian&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <!--
 **abhinavtripathy/abhinavtripathy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
