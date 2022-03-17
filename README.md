@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+## 📖 About me
+
+- 💻 Currently working at @thermofisher
+
+- 🎓 **Informatics Student** at The university of Massachusetts Amherst
+
+- 😄 Pronouns: **He/Him/His**
+
 <details>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="arihantbansal's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavtripathy&theme=prussian" /></a>
 </details>
