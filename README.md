@@ -2,7 +2,7 @@
 
 ## 📖 About me
 
-- 💻 Currently working at @thermofisher
+- 💻 Currently working at [Thermo Fisher Scientific](https://github.com/thermofisher), open source contributor to [Ansible](https://github.com/ansible/ansible)/[Scalalble Web Systems Wiki](https://github.com/scalable-web-systems) & incoming software engineer at [Amazon Web Services(AWS)](https://github.com/aws)
 
 - 🎓 **Informatics Student** at The university of Massachusetts Amherst
 
