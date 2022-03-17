@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="arihantbansal's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavtripathy&theme=prussian" /></a>
+<details>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="arihantbansal's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavtripathy&theme=prussian" /></a>
+</details>
+
+
 <!--
 **abhinavtripathy/abhinavtripathy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
