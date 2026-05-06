@@ -22,7 +22,7 @@ I enjoy working across the stack — from cloud infrastructure to frontend UIs. 
 
 ---
 
-## Featured Projects
+## Some of my Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
