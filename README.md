@@ -2,13 +2,11 @@
 
 ## 📖 About me
 
+- I am currently a software engineer at AWS. I studied at UMass Amherst.
 - https://abhinavtripathy.com
-
-- 🎓 **Informatics Student** at The University of Massachusetts Amherst
-
 - 😄 Pronouns: **He/Him/His**
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abhinavtripathy&theme=prussian&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abhinavtripathy&theme=prussian&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)]
 
 <!--
 **abhinavtripathy/abhinavtripathy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
