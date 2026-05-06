@@ -17,7 +17,7 @@ I'm a software engineer based in Virginia, currently working at **Amazon Web Ser
 I enjoy working across the stack — from cloud infrastructure to frontend UIs. On the open source side: 
 - I've contributed to [Ansible](https://github.com/ansible/ansible) (a widely-used open-source IT automation and configuration management tool.
 - I helped co-organize and develop [FuseUMass](https://github.com/fuseumass/dashboard) (the open-source hackathon organizer platform that powers HackUMass, one of the largest college hackathons in the Northeast).
-- Founded [DSC UMass](https://github.com/dsc-umass) — the Developer Student Club at UMass Amherst
+- Founded [DSC UMass](https://github.com/dsc-umass) — the Developer Student Club at UMass Amherst part of the Google Developer Community. 
 - Organized **Summer with DSC UMass** to help students break into open source when summer internships were being cancelled due to COVID
 
 ---
